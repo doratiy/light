@@ -1,0 +1,14 @@
+.light {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+form {
+    margin-left: 10px;
+    margin-right: 1700px;
+    margin-top: 20px;
+    padding: 5px;
+    border: 2px solid;
+    border-color: "gray";  
+}
